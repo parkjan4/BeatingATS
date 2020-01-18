@@ -1,1 +1,3 @@
-# BeatingATS
+# Beating the Applicant Tracking System (ATS)
+
+This project idea first occurred to me when I was about to refine my resume. Most companies now use some sort of applicant tracking system (ATS) to filter out applicants whose resumes do not include enough of the "keywords" that matter to the job profile. Generally, people attempt to look through a few examples of job descriptions out there in order to arrive at an array of importants words or phrases that they must include in order to stand out. What they cannot do is look through potentially thousands of job descriptions and come up with a much more accurate, comprehensive list (and ranking!) of keywords tailored for the kind of job they are applying for. This is precisely the overarching goal of this project. 
